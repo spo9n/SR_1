@@ -1,0 +1,10 @@
+C:\Users\Alienware\source\repos\ІЗВП\SR1_Surgai_P81\SR1_Surgai_P81\bin\Debug\SR1_Surgai_P81.exe.config
+C:\Users\Alienware\source\repos\ІЗВП\SR1_Surgai_P81\SR1_Surgai_P81\bin\Debug\SR1_Surgai_P81.exe
+C:\Users\Alienware\source\repos\ІЗВП\SR1_Surgai_P81\SR1_Surgai_P81\bin\Debug\SR1_Surgai_P81.pdb
+C:\Users\Alienware\source\repos\ІЗВП\SR1_Surgai_P81\SR1_Surgai_P81\obj\Debug\SR1_Surgai_P81.csprojAssemblyReference.cache
+C:\Users\Alienware\source\repos\ІЗВП\SR1_Surgai_P81\SR1_Surgai_P81\obj\Debug\SR1_Surgai_P81.Form1.resources
+C:\Users\Alienware\source\repos\ІЗВП\SR1_Surgai_P81\SR1_Surgai_P81\obj\Debug\SR1_Surgai_P81.Properties.Resources.resources
+C:\Users\Alienware\source\repos\ІЗВП\SR1_Surgai_P81\SR1_Surgai_P81\obj\Debug\SR1_Surgai_P81.csproj.GenerateResource.cache
+C:\Users\Alienware\source\repos\ІЗВП\SR1_Surgai_P81\SR1_Surgai_P81\obj\Debug\SR1_Surgai_P81.csproj.CoreCompileInputs.cache
+C:\Users\Alienware\source\repos\ІЗВП\SR1_Surgai_P81\SR1_Surgai_P81\obj\Debug\SR1_Surgai_P81.exe
+C:\Users\Alienware\source\repos\ІЗВП\SR1_Surgai_P81\SR1_Surgai_P81\obj\Debug\SR1_Surgai_P81.pdb
